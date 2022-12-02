@@ -1,0 +1,15 @@
+.button{
+    background-color: red;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.button:hover {
+    background-color: yellow;
+    color: red;
+    transition: .5s;
+}
+
+
+body{
+    background-color: turquoise;
+}
